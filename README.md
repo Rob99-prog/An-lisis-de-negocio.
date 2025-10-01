@@ -58,10 +58,10 @@ Realizar tests A/B de anuncios y landing pages.
 Monitorizar semanalmente CAC y ROMI para ajustes dinámicos.
 
 
-##Comentario del revisor:
+## Comentario del revisor:
 Buenas conclusiones basadas en lo visto durante el proyecto, están bastante completas y con sus recomendaciones sobre el presupuesto para marketing
 
-##Comentario del revisor
+## Comentario del revisor
 Hola, Roberto.
 
 Te quiero felicitar por tu proyecto, está bastante completo y bien realizado. Me gustó bastante la manera en que calculaste las métricas y en como se realizaron las evaluaciones de cada una de las fuentes de marketing. Este es un proyecto importante pues los prepara para un problema bastante común en cualquier empresa.
